@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently working as a project manager and hubspot solution architect.<br><br>I am experienced in technical project management, API testing, process design, QA, ERP Implementation, CRM Implementation, and Data Integration. I am used to with HubSpot, salesforce, netsuite, odoo, zoho, pipedrive, wordpress.
+I am currently working as a Technical project manager and hubspot solution architect.<br><br>I am experienced in technical project management, API testing, process design, QA, ERP Implementation, CRM Implementation, and Data Integration. I am used to with HubSpot, salesforce, netsuite, odoo, zoho, pipedrive, wordpress.
 
 
 ## 🌐 Socials:
